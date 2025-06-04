@@ -24,4 +24,3 @@ lerna-debug.log*
 node_modules/
 index.js
 @karinjs/
-/packages
